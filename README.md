@@ -31,3 +31,5 @@ Comparisons include interdiction value, runtime, and scalability across differen
 
 Fröhlich, F., & Ruzika, S. (2022). *Interdicting Facilities in Tree Networks.*  
 *European Journal of Operational Research.*
+Efficient Algorithms for Interdicting Facilities in Trees and
+Bounded Treewidth Graphs (Under Review)
