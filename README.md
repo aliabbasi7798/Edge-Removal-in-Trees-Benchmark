@@ -4,7 +4,7 @@ This repository implements and evaluates three algorithms for the **Edge Removal
 
 - **Fröhlich–Ruzika (FR) algorithm** – dynamic programming formulation from *Fröhlich & Ruzika (2022)*  
 - **Gurobi optimizer** – exact ILP formulation solved using the Gurobi engine  
-- **Proposed Dynamic Programming (DP)** – optimized algorithm with reduced state space and efficient subtree merging  
+- **TreeTrimmer - Proposed Dynamic Programming (DP)** – optimized algorithm with reduced state space and efficient subtree merging  
 
 ---
 
