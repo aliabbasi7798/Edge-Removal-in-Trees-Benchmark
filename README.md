@@ -33,5 +33,5 @@ Fröhlich, F., & Ruzika, S. (2022). *Interdicting Facilities in Tree Networks.*
 *European Journal of Operational Research.*
 
 
-Efficient Algorithms for Interdicting Facilities in Trees and
+Abbasi et al. Efficient Algorithms for Interdicting Facilities in Trees and
 Bounded Treewidth Graphs (Under Review)
